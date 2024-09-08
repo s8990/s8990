@@ -12,7 +12,7 @@ Here are some ideas to get you started:
   - Email: sd198867@gmail.com
   - Telegram: https://t.me/saeedk198867
   - Lionkedin: https://www.linkedin.com/in/saeed-k-dev
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: "he" | "his",
 
 ### Skills
 
