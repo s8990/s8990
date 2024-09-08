@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/saharNrv/saharNrv/blob/main/download%20(1).png?raw=true" width="36" height="36" alt="Material UI" /></a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://a.storyblok.com/f/172506/1280x800/00901d9ffe/next-js-logo.webp" width="36" height="36" alt="next-js" /></a>
+                <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" width="36" height="36" alt="Go" /></a>
 </p>
 <br />
 
