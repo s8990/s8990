@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Saeed</h1>
 
-- 🕵️ Curiosity to learn new tools, technologies and languages.
+- 🕵️ I'm Curious to learn new tools, technologies and languages
 - 🔭 I’m currently working on an Ecommerce as a Full Stack Developer.
 - 🌱 I’m currently learning Software engineering.
 - 📫 How to reach me:
