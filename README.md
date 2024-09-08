@@ -1,11 +1,5 @@
 <h1>Hi there 👋 I'm Saeed K</h1>
 
-
-**s8990/s8990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an Ecommerce as a Full Stack Developer.
 - 🌱 I’m currently learning Software programming.
 - 📫 How to reach me:
