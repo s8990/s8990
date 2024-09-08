@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Email: sd198867@gmail.com
   - Telegram: https://t.me/saeedk198867
-  - Lionkedin: https://www.linkedin.com/in/saeed-k-dev
+  - Linkedin: https://www.linkedin.com/in/saeed-k-dev
 - 😄 Pronouns: "he" | "his",
 
 ### Skills
