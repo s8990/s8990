@@ -1,7 +1,7 @@
-<h1>Hi there 👋 I'm Saeed K</h1>
+<h1>Hi there 👋 I'm Saeed</h1>
 
 - 🔭 I’m currently working on an Ecommerce as a Full Stack Developer.
-- 🌱 I’m currently learning Software programming.
+- 🌱 I’m currently learning Software engineering.
 - 📫 How to reach me:
   - Email: sd198867@gmail.com
   - Telegram: https://t.me/saeedk198867
