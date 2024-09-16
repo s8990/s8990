@@ -7,7 +7,6 @@
   - Email: sd198867@gmail.com
   - Telegram: https://t.me/saeedk198867
   - Linkedin: https://www.linkedin.com/in/saeed-k-dev
-- 😄 Pronouns: "he" | "his",
 
 ### Skills
 
