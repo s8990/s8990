@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=s8990&color=yellow" alt="Profile visitor">
 </p>
 
-### 💻 Skills
+## 💻 Skills
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
@@ -31,7 +31,7 @@
 <br />
 
 
-<h2>⚡️ &nbsp; Github Stats</h2>
+<h2>⚡️&nbsp;Github Stats</h2>
 
 <a href="https://github.com/s8990">
   <img src="https://github-readme-stats.vercel.app/api?username=s8990&show_icons=true&theme=radical" />
