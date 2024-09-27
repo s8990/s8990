@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Saeed</h1>
+# Hi there 👋 I'm Saeed
 
 - 🕵️ I'm Curious to learn new tools, technologies and languages
 - 🔭 I’m currently working on an Ecommerce as a Full Stack Developer.
@@ -31,7 +31,7 @@
 <br />
 
 
-<h2>⚡️&nbsp;Github Stats</h2>
+## ⚡️&nbsp;Github Stats
 
 <a href="https://github.com/s8990">
   <img src="https://github-readme-stats.vercel.app/api?username=s8990&show_icons=true&theme=radical" />
