@@ -10,17 +10,20 @@
 
 ### Skills
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/saharNrv/saharNrv/blob/main/download%20(1).png?raw=true" width="36" height="36" alt="Material UI" /></a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
-                <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://a.storyblok.com/f/172506/1280x800/00901d9ffe/next-js-logo.webp" width="36" height="36" alt="next-js" /></a>
-                <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" width="36" height="36" alt="Go" /></a>
-</p>
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redux](https://img.shields.io/badge/Redux-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://redux.js.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-64748b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=64748b)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Docker](https://img.shields.io/badge/Docker-%230ea5e9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mo3ito/)
+[![npm](https://img.shields.io/badge/Npm-fb923c?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 <br />
 
 
