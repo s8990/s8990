@@ -8,10 +8,6 @@
   - Telegram: https://t.me/saeedk198867
   - Linkedin: https://www.linkedin.com/in/saeed-k-dev
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=s8990&color=yellow" alt="Profile visitor">
-</p>
-
 ## 💻 Skills
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
