@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Saeed
 
 - 🕵️ I'm Curious to learn new tools, technologies and languages
-- 🔭 I’m currently working on an Ecommerce as a Full Stack Developer.
+- 🔭 I’m currently working on Full Stack projects.
 - 🌱 I’m currently learning Software engineering.
 - 📫 How to reach me:
   - Email: sd198867@gmail.com
